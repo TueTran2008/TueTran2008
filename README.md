@@ -2,12 +2,12 @@
 
 ## About Me
 
-I'm a passionate developer with a keen interest in systems programming and open-source contributions. I love to explore new technologies and apply them to solve real-world problems.
+I'm a passionate developer with a keen interest in embedded systems programming and open-source contributions. I love to explore new technologies and apply them to solve real-world problems.
 
-- 🌱 I’m currently learning **Advanced C and Rust**
+- 🌱 I’m currently learning **Advanced C, new to Rust and little Python**
 - 💬 Ask me about **C, Rust, and Python**
-- 📫 How to reach me: **tue.tran@example.com**
-- ⚡ Fun fact: I enjoy playing chess and hiking in my free time.
+- 📫 How to reach me: **tuetd174343@gmail.com**
+- ⚡ Fun fact: I enjoy games and soccers
 
 ## GitHub Stats
 
@@ -19,8 +19,8 @@ I'm a passionate developer with a keen interest in systems programming and open-
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuetran)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tuetran)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tran-duc-tue-1a9085274/)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=twitter&logoColor=white)](https://www.facebook.com/tuetd174343)
 
 ## Contribution Graph
 
