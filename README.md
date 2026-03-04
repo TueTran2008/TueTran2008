@@ -4,8 +4,7 @@
 
 I'm a passionate developer with a keen interest in embedded systems programming and open-source contributions. I love to explore new technologies and apply them to solve real-world problems.
 
-- 🌱 I’m currently learning **Advanced C, new to Rust and little Python**
-- 💬 Ask me about **C, Rust, and Python**
+- 🌱 I mainly work with C source code, love to write Rust and little Python for autotest**
 - 📫 How to reach me: **tuetd174343@gmail.com**
 - ⚡ Fun fact: I enjoy games and soccers
 
